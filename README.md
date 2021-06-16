@@ -1,5 +1,5 @@
 ### 👋
 
-I'm Ali Hassani. I'm a CS grad student @ UO.
+I'm Ali Hassani. I'm a CS Grad Student @ SHI Lab @ University of Oregon.
 
-My research interests include computer vision and ML. More specifically, I am interested in transformers and self-supervision.
+My research interests include computer vision and ML.
