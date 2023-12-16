@@ -1,5 +1,5 @@
 ### 👋
 
-I'm Ali Hassani. I'm a Computer Science PhD Student @ SHI Lab @ University of Oregon.
+I'm Ali Hassani. I'm a Computer Science PhD Student at Georgia Tech.
 
-Attention here, attention there. We apply attention everywhere. 
+Working on useful new attention primitives with subquadratic cost.
