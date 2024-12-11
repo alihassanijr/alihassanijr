@@ -1,5 +1,6 @@
 ### 👋
 
 I'm Ali Hassani. I'm a Computer Science PhD Student at Georgia Tech.
+My research involves high-performance deep learning architecture design, with a focus on vision.
 
-Working on useful new attention primitives with subquadratic cost.
+Visit my webpage to learn more: [alihassanijr.com](https://alihassanijr.com).
